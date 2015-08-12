@@ -1,5 +1,7 @@
 This is the version as it was used by Team Monkey Business to win the 2015 (DEFCON 23) competition.
 
+The turret hardware consists of an Arduino 2560 board, RAMPS 1.4 controller, two NEMA 17 stepper motors, a couble of end-stop switches, Microsoft webcam, and the laser prescribed below.
+
 
 
 2015_Reference_Robot
