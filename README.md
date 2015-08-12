@@ -1,3 +1,7 @@
+This is the version as it was used by Team Monkey Business to win the 2015 (DEFCON 23) competition.
+
+
+
 2015_Reference_Robot
 ====================
 
